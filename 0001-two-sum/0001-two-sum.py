@@ -1,16 +1,12 @@
 class Solution:
     def twoSum(self, nums, target):
-        notebook = {}
-
-        for i, num in enumerate(nums):
-            need = target - num
-
-            if need in notebook:
-                return [notebook[need], i]
-
-            notebook[num] = i
-
-        return i 
- 
-
+        tg ={}
+        for i,n in enumerate(nums) :
+            diff = target - n 
+            if diff in tg :
+                return [tg[diff], i]
+            tg[n] = i 
+        return 
+            
+     
 
