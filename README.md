@@ -27,6 +27,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -58,6 +59,7 @@
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0075-sort-colors](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,8 +148,17 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
