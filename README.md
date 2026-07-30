@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -38,6 +39,7 @@
 | [0007-reverse-integer](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0509-fibonacci-number) |
