@@ -38,6 +38,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0189-rotate-array) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0217-contains-duplicate) |
@@ -125,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1021-remove-outermost-parentheses) |
