@@ -89,6 +89,7 @@
 | [0219-contains-duplicate-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -188,4 +191,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
