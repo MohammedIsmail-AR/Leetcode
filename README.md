@@ -43,6 +43,7 @@
 | [0048-rotate-image](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -54,6 +55,7 @@
 | [0125-valid-palindrome](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -85,6 +87,7 @@
 | [0013-roman-to-integer](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0242-valid-anagram) |
@@ -195,4 +198,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
