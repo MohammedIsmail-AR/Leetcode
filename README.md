@@ -109,6 +109,7 @@
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
@@ -168,6 +169,7 @@
 | [0242-valid-anagram](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -216,6 +218,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
