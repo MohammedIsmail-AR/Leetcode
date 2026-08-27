@@ -298,4 +298,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0207-course-schedule) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
