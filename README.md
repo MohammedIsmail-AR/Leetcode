@@ -39,6 +39,7 @@
 | [0283-move-zeroes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@
 | [0189-rotate-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -117,6 +119,7 @@
 | [0242-valid-anagram](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -288,6 +291,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Graph Theory
 |  |
 | ------- |
@@ -308,4 +312,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
