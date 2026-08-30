@@ -1,16 +1,7 @@
 class Solution(object):
     def minimumDeletions(self, nums):
-        minp, maxp, minel, maxel, L = 0, 0, float('inf'), float('-inf'), len(nums)
-        for i, n in enumerate(nums):
-            if n > maxel:
-                maxel = n
-                maxp = i
-            if n < minel:
-                minel = n
-                minp = i
-        
-        left, right = min(minp, maxp), max(minp, maxp)
-
-        return min(right + 1, L - left, left + 1 + (L - right))
-   
+        i, j = nums.index(min(nums)), nums.index(max(nums))
+        if i > j:
+            i, j = j, i
+        return min((i+1)+(len(nums)-j), j+1, len(nums)-i)
         
