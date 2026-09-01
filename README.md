@@ -51,6 +51,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -130,11 +131,13 @@
 | [0424-longest-repeating-character-replacement](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0567-permutation-in-string) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 | [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0322-coin-change) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -230,6 +234,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0054-spiral-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
 | ------- |
