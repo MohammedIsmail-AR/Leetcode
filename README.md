@@ -53,6 +53,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
