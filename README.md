@@ -90,6 +90,7 @@
 | [0344-reverse-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -214,6 +215,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
