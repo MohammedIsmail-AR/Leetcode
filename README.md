@@ -19,6 +19,7 @@
 | [0054-spiral-matrix](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0068-text-justification) |
 | [1929-concatenation-of-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
@@ -207,6 +209,7 @@
 | [0020-valid-parentheses](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0205-isomorphic-strings) |
