@@ -55,6 +55,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [0238-product-of-array-except-self](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3903-smallest-stable-index-i](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Memoization
 |  |
 | ------- |
