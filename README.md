@@ -90,6 +90,7 @@
 | [0202-happy-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -186,6 +187,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -216,6 +218,7 @@
 | [0242-valid-anagram](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/1021-remove-outermost-parentheses) |
