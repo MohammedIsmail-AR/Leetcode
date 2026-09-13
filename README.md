@@ -150,6 +150,7 @@
 | [0219-contains-duplicate-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0383-ransom-note) |
@@ -234,6 +235,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
