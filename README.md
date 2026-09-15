@@ -21,6 +21,7 @@
 | [0053-maximum-subarray](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0015-3sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -407,4 +409,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
