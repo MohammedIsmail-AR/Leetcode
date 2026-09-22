@@ -1,11 +1,11 @@
 # Definition for singly-linked list.
-# class ListNode:
+# class ListNode(object):
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
 
-class Solution:
-    def hasCycle(self, head: Optional[ListNode]) -> bool:
+class Solution(object):
+    def hasCycle(self, head):
         slow = head
         fast = head
 
@@ -16,3 +16,4 @@ class Solution:
                 return True  # Cycle detected
 
         return False  # No cycle
+        
