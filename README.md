@@ -145,6 +145,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -172,6 +173,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -396,6 +398,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Graph Theory
@@ -446,4 +449,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0056-merge-intervals) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
