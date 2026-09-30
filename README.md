@@ -294,17 +294,20 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0207-course-schedule) |
@@ -313,6 +316,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
 ## Matrix
