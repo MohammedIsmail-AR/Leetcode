@@ -297,6 +297,7 @@
 | [0100-same-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0322-coin-change) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -319,6 +322,7 @@
 | [0100-same-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
 | ------- |
