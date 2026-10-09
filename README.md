@@ -320,6 +320,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -516,4 +519,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
