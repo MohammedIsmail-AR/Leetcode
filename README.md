@@ -130,6 +130,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0704-binary-search) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
@@ -316,6 +318,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -356,6 +359,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MohammedIsmail-SDE/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Matrix
 |  |
